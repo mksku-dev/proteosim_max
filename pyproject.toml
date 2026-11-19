@@ -8,7 +8,7 @@ version = "0.1.0"
 description = ""
 readme = "README.md"
 license = { text = "MIT" }
-authors = [{ name = "" }]
+authors = [{ name = "Max" }]
 requires-python = ">=3.10"
 dependencies = [
     "numpy",
