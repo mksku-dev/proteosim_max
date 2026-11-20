@@ -13,8 +13,8 @@ requires-python = ">=3.10"
 dependencies = [
     "numpy",
     "pytest", 
-    "matplotlib"
-    "pyteomics"
+    "matplotlib",
+    "pyteomics",
     # Add all required dependencies
 ]
 
