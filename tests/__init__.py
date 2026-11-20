@@ -12,3 +12,10 @@ from .test_liquid_chromatography import(
     test_predict_lc_retention_times,
     test_select_retention_time_window
 )
+
+from .test_mass_spectra_simulation import(
+    amino_acid_mass_dalton,
+    test_fragment_peptide,
+    test_calculate_mol_mass,
+    test_calculate_mol_mass_collection
+)
